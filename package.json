@@ -1,5 +1,6 @@
 {
   "name": "newsapp",
+  "homepage": "https://nvishal600.github.io/NewsMonkeyApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
